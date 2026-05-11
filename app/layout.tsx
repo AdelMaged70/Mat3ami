@@ -8,9 +8,9 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Lazy Agency - Restaurant Marketing Solutions",
+  title: "Mat3ami - Restaurant Marketing Solutions",
   description: "We help restaurants grow through authentic customer-generated content and reviews",
-  generator: "v0.app",
+  generator: "Mat3ami",
 }
 
 export default function RootLayout({
