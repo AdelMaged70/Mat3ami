@@ -89,12 +89,12 @@ export default function Hero() {
             Get Started
             <ChevronRight size={20} className="group-hover:translate-x-1 transition-transform" />
           </Link>
-          <Link
+          {/* <Link
             href="/portfolio"
             className="px-8 py-3 border-2 border-primary text-primary rounded-lg font-semibold hover:bg-primary/10 transition-all duration-200"
           >
             View Portfolio
-          </Link>
+          </Link> */}
         </div>
       </div>
     </section>
