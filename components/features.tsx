@@ -32,7 +32,7 @@ export default function Features() {
     <section className="py-20 px-4 sm:px-6 lg:px-8 bg-background">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="text-4xl sm:text-5xl font-bold text-foreground mb-4">Why Choose Lazy Agency?</h2>
+          <h2 className="text-4xl sm:text-5xl font-bold text-foreground mb-4">Why Choose Mat3ami?</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             We help restaurants understand their customers and grow through authentic engagement
           </p>
